@@ -27091,11 +27091,11 @@ var _stylesCss = require("./styles.css");
     title: "Web Designer & Content Creator",
     email: "aryan.pathak300904@gmail.com",
     gitHub: "Aryan807",
-    instagram: "microsoft",
-    linkedIn: "aryanpathak",
+    instagram: "aryanpathak300904",
+    linkedIn: "aryan-pathak-274329274",
     medium: "",
-    twitter: "aryanpathak",
-    youTube: "aryanpathak"
+    twitter: "aryan25397",
+    youTube: "aryanpathak3104"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
@@ -28715,7 +28715,7 @@ $RefreshReg$(_c, "Home");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","../images/man-with-laptop.avif":"eyxQj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"b5nCi":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/man-with-laptop.avif":"eyxQj"}],"b5nCi":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "down-arrow.1037091f.svg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"eyxQj":[function(require,module,exports) {
