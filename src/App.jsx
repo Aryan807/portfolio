@@ -28,11 +28,11 @@ const siteProps = {
   title: "Web Designer & Content Creator",
   email: "aryan.pathak300904@gmail.com",
   gitHub: "Aryan807",
-  instagram: "microsoft",
-  linkedIn: "aryanpathak",
+  instagram: "aryanpathak300904",
+  linkedIn: "aryan-pathak-274329274",
   medium: "",
-  twitter: "aryanpathak",
-  youTube: "aryanpathak",
+  twitter: "aryan25397",
+  youTube: "aryanpathak3104",
 };
 
 const primaryColor = "#4E567E";
